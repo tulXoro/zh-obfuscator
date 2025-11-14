@@ -4,7 +4,7 @@
 
 ### What is it
 
-This is a small script that obfuscates identifiers with their Chinese equivalent.
+This is a script meant to be used on programming files. It obfuscates identifiers with their (near) Chinese equivalent.
 
 ### How it works
 
