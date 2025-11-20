@@ -1,6 +1,13 @@
 
+
+# file path
 路径 = input("Enter the file directory:")
+# generic variable to check if path is available
 标记 = False
+
+# enable AI
+启用AI = False
+
 
 while not 标记:
     try:
